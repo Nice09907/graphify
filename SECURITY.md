@@ -1,4 +1,4 @@
-# Security Policy
+# Security Policy 
 
 ## Supported Versions
 
@@ -51,3 +51,4 @@ graphify is a **local development tool**. It runs as a Claude Code skill and opt
 - `ingest` subcommand: fetches URLs explicitly provided by the user
 - PDF extraction: reads local files only (pypdf does not make network calls)
 - watch mode: local filesystem events only (watchdog does not make network calls)
+//LINKTODEATH ALL 
