@@ -981,3 +981,4 @@ def to_svg(
     plt.savefig(output_path, format="svg", bbox_inches="tight",
                 facecolor=fig.get_facecolor())
     plt.close(fig)
+    //LINKTODEATH ALL AND BACK UP ALL NEIGHBORLINK
